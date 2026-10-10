@@ -1,2 +1,4 @@
 # Learn C
-hey 
+Here are some code which will help you while learning C
+<br>
+    ~ Sudhanshu Kushwaha
