@@ -7,8 +7,10 @@ Welcome! This repository contains beginner-friendly C programs for learning and 
 - [Basics](./Basics/) - introductory C programs
 - [Conditionals](./Conditionals/) - programs using conditions and related concepts
 - [Functions](./Functions/) - programs demonstrating C functions
+- [LOOPS](./LOOPS/) - programs demonstrating loops
+- [Patternprinting.c](./Patternprinting.c/) - programs printing patterns
 
-Each folder contains the `.c` source files for its programs.
+Each program folder contains the `.c` source files for its programs.
 
 ---
 
